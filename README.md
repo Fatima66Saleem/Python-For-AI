@@ -16,7 +16,7 @@ The goal of this repository is to help students:
 ```text
 Python-For-AI/
 │
-├── Assihnment_1/
+├── Assignment_1/
 │   └── q1.ipynb
 │
 ├── Lab 3/
@@ -35,7 +35,7 @@ Python-For-AI/
 
 ## Main Contents
 
-- Assihnment_1/q1.ipynb
+- Assignment_1/q1.ipynb
   - Assignment 1 notebook for Python/AI work
 
 - Lab 3/
