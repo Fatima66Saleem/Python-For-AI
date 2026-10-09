@@ -59,52 +59,6 @@ This repository uses:
 - Seaborn
 - Scikit-learn (if used in future labs)
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Fatima66Saleem/Python-For-AI.git
-```
-
-2. Open the project folder:
-
-```bash
-cd Python-For-AI
-```
-
-3. Create a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-```
-
-4. Activate the environment:
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-Linux/macOS:
-
-```bash
-source venv/bin/activate
-```
-
-5. Install dependencies:
-
-```bash
-pip install jupyter numpy pandas matplotlib seaborn scikit-learn
-```
-
-6. Start Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
 ## Learning Focus
 
 This repository supports learning in:
@@ -118,11 +72,3 @@ This repository supports learning in:
 ## Author
 
 Fatima Saleem
-
-## Note
-
-This repository is created for academic work and learning purposes. It can be expanded with more AI labs, assignments, projects, and notes in the future.
-
-## License
-
-This project is currently shared for educational and learning purposes.
